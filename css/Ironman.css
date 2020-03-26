@@ -1,0 +1,176 @@
+.back{
+	background-image: url("../img/IronbackImg.png");
+	background-repeat:repeat
+}
+
+.header{
+	font-family:cursive;
+	background-color:#ff0000;
+	color:#fff;
+	height: 250px;
+}
+
+.header-logo{
+	float:left;
+	font-size:80px;
+	padding:20px 300px;
+}
+
+.header-logo p{
+	font-size: 40px;
+}
+
+.title{
+	font-size: 30px;
+	font-weight:bold;
+	padding: 80px 0px;
+}
+.index{
+	font-size:25px;
+	margin:0 auto;
+	width:380px;
+	background-color: #ffd700;
+}
+.index p{
+	text-align:center;
+}
+
+#text{
+	font-family: Courier;
+	font-size: 20px;
+	font-weight:bold;
+}
+
+.mokuzi{
+	background-color:#c0c0c0;
+	font-size: 35px;
+}
+
+#image{
+	padding-bottom: 50px;
+}
+
+.text{
+	font-size:30px;
+}
+
+.text2{
+	font-size: 25px;
+}
+
+.pre{
+	font-size: 25px;
+	font-weight:bold;
+}
+#main{
+	padding-bottom: 50px;
+}
+#main p{
+	font-size: 22px;
+	font-weight:bold;
+}
+
+#main li{
+	font-size: 22px;
+	font-weight:bold;
+}
+
+#main2{
+	padding-bottom: 50px;
+}
+
+#main2 li{
+	font-size: 22px;
+	font-weight:bold;
+}
+
+#main3{
+	padding-bottom: 50px;
+}
+#main3 p{
+	font-size: 22px;
+	font-weight:bold;
+}
+
+#main3 li{
+	font-size: 22px;
+	font-weight:bold;
+}
+
+.name{
+	background-color:#c0c0c0;
+	font-size: 35px;
+}
+
+.tribe{
+	background-color:#c0c0c0;
+	font-size: 35px;
+}
+
+.status{
+	background-color:#c0c0c0;
+	font-size: 35px;
+}
+
+.abi p{
+	font-size: 22px;
+	font-weight:bold;
+}
+.ability{
+	background-color:#c0c0c0;
+	font-size: 35px;
+}
+
+#shintai p{
+	/*文字の大きさや文字の長さでボーダーを可変する*/
+	display: inline-block;
+	border-top: solid 10px #ff0000;
+    border-bottom: solid 10px #ffd700;
+    font-size: 35px;
+}
+
+#suit p{
+	/*文字の大きさや文字の長さでボーダーを可変する*/
+	display: inline-block;
+	border-top: solid 10px #ff0000;
+    border-bottom: solid 10px #ffd700;
+    font-size: 35px;
+}
+
+#weapon p{
+	/*文字の大きさや文字の長さでボーダーを可変する*/
+	display: inline-block;
+	border-top: solid 10px #ff0000;
+    border-bottom: solid 10px #ffd700;
+    font-size: 35px;
+}
+
+#sky p{
+	/*文字の大きさや文字の長さでボーダーを可変する*/
+	display: inline-block;
+	border-top: solid 10px #ff0000;
+    border-bottom: solid 10px #ffd700;
+    font-size: 35px;
+}
+
+#p p{
+	padding-bottom: 50px;
+}
+
+.story{
+	background-color:#c0c0c0;
+	font-size: 35px;
+}
+
+#origin p{
+	/*文字の大きさや文字の長さでボーダーを可変する*/
+	display: inline-block;
+	border-top: solid 10px #c0c0c0;
+    border-bottom: solid 10px #c0c0c0;
+    font-size: 35px;
+}
+
+.setumei p{
+	font-size: 22px;
+	font-weight:bold;
+}

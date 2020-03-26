@@ -1,0 +1,178 @@
+.back{
+	background-image: url("../img/ThorbackImg.png");
+	background-repeat:repeat
+}
+.header{
+	font-family:cursive;
+	background-color:#ff0000;
+	color:#fff;
+	height: 250px;
+}
+
+.header-logo{
+	float:left;
+	font-size:80px;
+	padding:20px 300px;
+}
+
+.header-logo p{
+	font-size: 40px;
+}
+
+.title{
+	font-size: 30px;
+	font-weight:bold;
+	padding: 80px 0px;
+}
+
+
+.index{
+	font-size:25px;
+	margin:0 auto;
+	width:380px;
+	background-color: #ffd700;
+}
+
+.index p{
+	text-align:center;
+}
+
+#First{
+	font-family: Courier;
+	font-size: 20px;
+	font-weight:bold;
+}
+
+.first{
+	background-color:#c0c0c0;
+	font-size: 35px;
+}
+
+.text{
+	font-size:30px;
+}
+
+.text2{
+	font-size: 25px;
+}
+
+#image{
+	padding-bottom: 50px;
+}
+
+.Pre{
+	font-size: 25px;
+	font-weight: bold;
+}
+
+#Name{
+	font-family: Courier;
+	font-size: 20px;
+	font-weight:bold;
+}
+
+.name{
+	background-color:#c0c0c0;
+	font-size: 35px;
+}
+#Name p{
+	font-size: 22px;
+	font-weight:bold;
+}
+
+#Tribe{
+	font-family: Courier;
+	font-size: 20px;
+	font-weight:bold;
+}
+
+.tribe{
+	background-color:#c0c0c0;
+	font-size: 35px;
+}
+
+#Tribe li{
+	font-size: 22px;
+	font-weight:bold;
+}
+
+#Status{
+	font-family: Courier;
+	font-size: 20px;
+	font-weight:bold;
+}
+
+.status{
+	background-color:#c0c0c0;
+	font-size: 35px;
+}
+
+#Status p{
+	font-size: 22px;
+	font-weight:bold;
+}
+#Status li{
+	font-size: 22px;
+	font-weight:bold;
+}
+
+#Ability{
+	font-family: Courier;
+	font-size: 20px;
+	font-weight:bold;
+}
+
+#Ability p{
+	font-size: 22px;
+	font-weight:bold;
+}
+
+.ability{
+	background-color: #c0c0c0;
+	font-size: 35px;
+}
+
+#Shintai p{
+	/*文字の大きさや文字の長さでボーダーを可変する*/
+	display: inline-block;
+	border-top: solid 10px #1e90ff;
+    border-bottom: solid 10px #1e90ff;
+	font-size: 35px;
+}
+
+#Mjolnir p{
+	/*文字の大きさや文字の長さでボーダーを可変する*/
+	display: inline-block;
+	border-top: solid 10px #1e90ff;
+    border-bottom: solid 10px #1e90ff;
+	font-size: 35px;
+}
+
+#Thunder p{
+	/*文字の大きさや文字の長さでボーダーを可変する*/
+	display: inline-block;
+	border-top: solid 10px #1e90ff;
+    border-bottom: solid 10px #1e90ff;
+	font-size: 35px;
+}
+
+#Story{
+	padding-bottom: 50px;
+}
+
+#Story p{
+	font-size: 22px;
+	font-weight:bold;
+}
+
+.story{
+	background-color: #c0c0c0;
+	font-size: 35px;
+}
+#origin p{
+	/*文字の大きさや文字の長さでボーダーを可変する*/
+	display: inline-block;
+	border-top: solid 10px #ff0000;
+    border-bottom: solid 10px #0000ff;
+	font-size: 35px;
+}

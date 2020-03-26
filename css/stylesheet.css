@@ -1,0 +1,96 @@
+
+body{
+	font-family: "Avenir Next";
+}
+
+li{
+	list-style: none;
+}
+
+.header{
+	font-family:cursive;
+	background-color:#ff0000;
+	color:#fff;
+	height: 180px;
+}
+
+.header-logo{
+	float:left;
+	font-size:80px;
+	padding:20px 300px;
+}
+
+.header-list li{
+	 float: left;
+ 	 padding: 33px 20px;
+ 	 font-size: 20px;
+ 	 
+ }
+
+ .index{
+	font-size:25px;
+	margin:0 auto;
+	width:380px;
+	background-color: #ffd700;
+}
+.index p{
+	text-align:center;
+}
+
+.main{
+	padding: 100px 80px
+}
+
+.copy-container h1{
+	font-size: 80px;
+	padding-left:100px;
+	color:#9400d3;
+}
+
+.copy-container h2{
+	font-size: 60px;
+}
+
+
+.contents h3{
+	font-size: 35px;
+}
+
+/*フレックボックス使用例*/
+article {
+	display: flex;
+	margin-bottom: 20px;
+	padding: 20px;
+	border-radius: 5px;
+	box-sizing: border-box;
+	box-shadow: 0 0 5px #999;
+}
+article figure {
+	margin-left: auto;
+	width: 100px;
+	height: 100px;
+}
+article figure img {
+	min-width: 100px;
+	max-width: 500%;
+	vertical-align: top;
+	margin-left: auto;
+
+}
+/**/
+#contents-item h2{
+	font-size: 30px;
+}
+
+.text_excerpt p{
+	font-size: 15px;
+}
+
+#contents-item2 h2{
+	font-size: 30px;
+}
+
+#contents-item3 h2{
+	font-size: 30px;
+}
+
